@@ -1,14 +1,14 @@
 # ScreenMatch
 
-# Descripción  
+## Descripción  
 Aplicación ScreenMatch, creada durante la inmersión Java de la Semana Tech 2024 Alura
 
-# Requerimientos  
+## Requerimientos  
 Java 17
 
-# Licencia  
+## Licencia  
 Contactar para sugerencias
 
-# Contacto  
+## Contacto  
 danigore22@gmail.com
 
